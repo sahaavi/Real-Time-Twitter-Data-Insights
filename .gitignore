@@ -149,6 +149,7 @@ dmypy.json
 
 # text
 secrets.txt
+secrets.py
 
 # pytype static type analyzer
 .pytype/
