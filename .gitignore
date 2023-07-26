@@ -149,7 +149,7 @@ dmypy.json
 
 # instructions and secrets
 secrets.txt
-secrets.py
+secrets_.py
 notebook - Copy.ipynb
 
 # pytype static type analyzer
